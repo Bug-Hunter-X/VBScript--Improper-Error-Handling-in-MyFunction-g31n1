@@ -1,0 +1,1 @@
+This repository demonstrates an example of improper error handling in a VBScript function and provides a solution for more robust error management. The original code uses On Error Resume Next, which hides errors and makes debugging difficult. The improved version provides specific error handling, logging, and user-friendly messages.
